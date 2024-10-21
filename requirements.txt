@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+langchain-core
+langchain-community
+langchain-openai
+spacy
+faiss-cpu
+python-dotenv
+azure-storage-blob
